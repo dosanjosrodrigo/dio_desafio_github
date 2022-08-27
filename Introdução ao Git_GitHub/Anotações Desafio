@@ -14,6 +14,9 @@
 	- Gerenciando pacoites, Arquivos,Usuários e processos
 	- Infra estrutura como código
 	- Script de Criação de Usuários, diretorios e premissões
+	- Instalação servidor web apache2
+	- instalação Mysql Server
+	- Script de provisionamento servidor web
 
 
 
